@@ -1,0 +1,8 @@
+## Interface: 11506
+## Title: |cff0066ffZulgAuras|r - CooldownBuffDebuffTracker
+## Notes: Tracks cooldowns, buffs, and debuffs and displays them in horizontal lines.
+## Author: ZulgAuras
+## Version: 1.0.0
+## SavedVariables: ZBCDT_DB
+
+CooldownBuffDebuffTracker_ZulgAuras.lua
